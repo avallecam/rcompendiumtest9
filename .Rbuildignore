@@ -16,3 +16,8 @@
 ^pkgdown$
 ^\.github$
 ^\.Rprofile$
+^README-.*\.png$
+^CONDUCT\.md$
+^CONTRIBUTING\.md$
+^\.binder/Dockerfile$
+^\.binder$
