@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^rcompendiumtest9\.Rproj$
 ^\.Rproj\.user$
 ^\.DS_Store$
@@ -13,3 +15,4 @@
 ^docs$
 ^pkgdown$
 ^\.github$
+^\.Rprofile$
